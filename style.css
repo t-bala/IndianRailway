@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    margin-left: 15%;
+}
+.mainheading {
+     style="font-family: fantasy;
+    font-size: 15px;
+    color: blue;
+    display: block;
+    margin-left: 100px;
+    min-height: 45px;
+ 
+}
+.navmenu {
+    width: 10px;
+    background-color: blue;
+    color: white;
+    
+}
+#services{
+    background-color: blue;
+}
